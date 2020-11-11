@@ -1,4 +1,5 @@
 # Palindrome Checker
+
 JavaScript Algorithms and Data Structures Projects Palindrome Checker
 
 Return `true` if the given string is a palindrome. Otherwise, return `false`.
@@ -16,7 +17,10 @@ We'll also pass strings with special symbols, such as `"2A3*3a2"`, `"2A3 3a2"`, 
 
 If you have node installed, navigate to the root directory and do the following command
 
-```js
-
+```shell
+node index.js
 ```
 
+Stay Blessed
+
+Abu Turaab
